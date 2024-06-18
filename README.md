@@ -1,5 +1,4 @@
 ### Unsupervised Learning in BI
-- by Shithi Maitra, DS
 
 TallyKhata made use of clustering for effective field visits throughout Bangladesh. For context, Bangladesh is divided into 4578 union parishads and merchants are distributed throught. The business questions were:
 - How many field officers (FO) should be deployed?
@@ -17,4 +16,4 @@ The solution iterated over unions and output no. of FOs (clusters) per union and
 
 <p align="center"><img width="600" alt="c4" src="https://github.com/shithi30/Clusters_for_Field_Visit/assets/43873081/877cb376-f9af-4578-ab17-9711565734ee"></p>
 
-Hence hDBSCAN has been adopted as a more natural solution to the business problem. Also, for experimentation purposes, the algorithm clustered users into 7 clusters based on their usage patterns on the app. 
+Hence hDBSCAN was adopted as a more natural solution to the business problem. Also, for experimentation purposes, the algorithm clustered users into 7 clusters based on their usage patterns on the app. 
