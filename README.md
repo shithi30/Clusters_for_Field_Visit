@@ -1,3 +1,6 @@
+### Unsupervised Learning in BI
+- by Shithi Maitra, DS
+
 TallyKhata made use of clustering for effective field visits throughout Bangladesh. For context, Bangladesh is divided into 4578 union parishads and merchants are distributed throught. The business questions were:
 - How many field officers (FO) should be deployed?
 - Which merchants should the filed-force visit, for optimum coverage in lowest costs?
