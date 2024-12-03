@@ -4,7 +4,7 @@
 - How many field officers (FOs) should be deployed for comprehensive coverage?
 - Which merchants should the filed-force visit, for optimum coverage in lowest costs?
 
-**Tech Stack:** Language - `Python` , ML Libraries - `Sklearn, DBSCAN, KMeans` , Databases & Wrappers - `Postgres, SQLalchemy, Psycopg2`
+**Tech Stack:** Language - `Python` , Databases & Wrappers - `Postgres, SQLalchemy, Psycopg2` , ML Libraries - `Sklearn, DBSCAN, KMeans`
 
 <p align="center"><img width="600" alt="c4" src="https://github.com/shithi30/Clusters_for_Field_Visit/assets/43873081/4d9cc36d-eaf3-4d7e-a67d-96f96413363d"></p>
 
