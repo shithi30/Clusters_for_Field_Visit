@@ -4,6 +4,8 @@
 - How many field officers (FOs) should be deployed for comprehensive coverage?
 - Which merchants should the filed-force visit, for optimum coverage in lowest costs?
 
+**Tech Stack:** Language - `Python` , ML Libraries - `Sklearn, DBSCAN, KMeans` , Databases & Wrappers - `Postgres, SQLalchemy, Psycopg2`
+
 <p align="center"><img width="600" alt="c4" src="https://github.com/shithi30/Clusters_for_Field_Visit/assets/43873081/4d9cc36d-eaf3-4d7e-a67d-96f96413363d"></p>
 
 DBSCAN and *k*-Means clustering were applied to address the problems, with DBSCAN proving to be a better fit for the purpose. *h*DBSCAN (DBSCAN with *Haversine*/geo distance) was applied for the purpose, which took 2 parameters:
